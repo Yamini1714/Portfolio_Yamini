@@ -1,0 +1,34 @@
+[
+    {
+        "title" : "HTML",
+        "imageSrc" : "skills/html.png"
+    },
+    {
+        "title" : "CSS",
+        "imageSrc" : "skills/css.png"
+    },
+    {
+        "title" : "Bootstrap",
+        "imageSrc" : "skills/bootstrap.png"
+    },
+    {
+        "title" : "Figma",
+        "imageSrc" : "skills/figma.png"
+    },
+    {
+        "title" : "Spring Boot",
+        "imageSrc" : "skills/springboot.png"
+    },
+    {
+        "title" : "React JS",
+        "imageSrc" : "skills/react.png"
+    },
+    {
+        "title" : "MySQL",
+        "imageSrc" : "skills/mysql.png"
+    },
+    {
+        "title" : "JAVA",
+        "imageSrc" : "skills/java.png"
+    }
+]
