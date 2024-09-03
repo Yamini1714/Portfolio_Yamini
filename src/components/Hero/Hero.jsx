@@ -11,9 +11,17 @@ export const Hero = () => {
         <p className={styles.description}>
         A skilled Full Stack Developer with expertise in React for front-end development and Spring Boot for back-end solutions. Passionate about building dynamic and efficient web applications, combining modern technologies to deliver robust user experiences
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+        <div className={styles.buttonGroup}>
+         <a href="mailto:myamini2020@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
+        <a href="/M.Yamini_CV.pdf" className={styles.cvBtn} target="_blank" rel="noopener noreferrer">
+          CV
+        </a>
+
+        </div>
+       
+        
       </div>
       <img
         src={getImageUrl("hero/heroImage.png")}
