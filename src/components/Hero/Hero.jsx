@@ -15,7 +15,7 @@ export const Hero = () => {
          <a href="mailto:myamini2020@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
-        <a href="/M.Yamini_CV.pdf" className={styles.cvBtn} target="_blank" rel="noopener noreferrer">
+        <a href="cv/M.Yamini_CV.pdf" className={styles.cvBtn} target="_blank" rel="noopener noreferrer">
           CV
         </a>
 
@@ -24,7 +24,7 @@ export const Hero = () => {
         
       </div>
       <img
-        src={getImageUrl("/heroImage.png")}
+        src={getImageUrl("hero/heroImage.png")}
         alt="Hero image of me"
         className={styles.heroImg}
       />
