@@ -1,6 +1,7 @@
 import React from "react";
 
 import { getImageUrl } from "../../utils";
+
 import styles from "./Hero.module.css";
 
 export const Hero = () => {
@@ -15,9 +16,7 @@ export const Hero = () => {
          <a href="mailto:myamini2020@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
-        <a href="../M.Yamini_CV.pdf" className={styles.cvBtn} target="_blank" rel="noopener noreferrer">
-          CV
-        </a>
+        
 
         </div>
        
