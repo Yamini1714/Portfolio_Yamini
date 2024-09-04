@@ -1,6 +1,6 @@
 [
     {"title" : "Project 1",
-    "imageSrc" : "project/project.png",
+    "imageSrc" : "../project.png",
     "description" : "The Patient Database Management System enables efficient management of patient records, allowing for seamless creation, retrieval, updating, and deletion of data, ensuring accurate and up-to-date information for improved patient care.",
     "skills" : ["React","Spring Boot","MySQL"],
     "source" : "https://github.com/Yamini1714/patient_ui.git"
